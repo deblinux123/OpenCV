@@ -46,7 +46,6 @@ pip install opencv-python opencv-contrib-python numpy matplotlib
 python -c "import cv2; print(cv2.__version__)"
 ```
 
----
 
 ---
 
