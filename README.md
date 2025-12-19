@@ -29,9 +29,9 @@
 ### 1️⃣ ساخت محیط مجازی (اختیاری ولی پیشنهادی)
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # Linux / macOS
-venv\Scripts\activate     # Windows
+python -m venv opencv
+source opencv/bin/activate  # Linux / macOS
+opencv\Scripts\activate     # Windows
 ```
 
 ### 2️⃣ نصب وابستگی‌ها
